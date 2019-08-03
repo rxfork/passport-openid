@@ -11,7 +11,7 @@ integrated into any application or framework that supports
 
 ## Install
 
-    $ npm install passport-openid
+    $ npm install @rxfork/passport-openid
 
 ## Usage
 
