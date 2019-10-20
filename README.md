@@ -9,7 +9,7 @@ integrated into any application or framework that supports
 [Connect](http://www.senchalabs.org/connect/)-style middleware, including
 [Express](http://expressjs.com/).
 
-[![NPM version](https://img.shields.io/npm/v/@passport-next/passport-openid.svg)](https://www.npmjs.com/package/@passport-next/passport-openid)
+[![NPM version](https://img.shields.io/npm/v/@rxfork/passport-openid.svg)](https://www.npmjs.com/package/@rxfork/passport-openid)
 [![Build Status](https://travis-ci.org/passport-next/passport-openid.svg?branch=master)](https://travis-ci.org/passport-next/passport-openid)
 [![Coverage Status](https://coveralls.io/repos/github/passport-next/passport-openid/badge.svg?branch=master)](https://coveralls.io/github/passport-next/passport-openid?branch=master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/f278170402b42c88db23/maintainability)](https://codeclimate.com/github/passport-next/passport-openid/maintainability)
@@ -19,7 +19,7 @@ integrated into any application or framework that supports
 
 ## Install
 
-    $ npm install @passport-next/passport-openid
+    $ npm install @rxfork/passport-openid
 
 ## Usage
 

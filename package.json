@@ -1,5 +1,5 @@
 {
-  "name": "@passport-next/passport-openid",
+  "name": "@rxfork/passport-openid",
   "version": "1.0.0",
   "description": "OpenID authentication strategy for Passport.",
   "keywords": [
