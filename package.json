@@ -1,6 +1,6 @@
 {
   "name": "@rxfork/passport-openid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "OpenID authentication strategy for Passport.",
   "keywords": [
     "passport",
